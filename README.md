@@ -1,4 +1,4 @@
-# Unsupervised Learning (Python)
+# Segmentacion-Clientes-Churn-Clv (Python)
 
 ## 📌 Propósito
 Aplicar técnicas de aprendizaje no supervisado para segmentación de clientes y análisis de valor.
